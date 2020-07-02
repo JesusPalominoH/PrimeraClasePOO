@@ -1,3 +1,3 @@
 # PrimeraClasePOO
 
-Codigo Hello World.
+Codigo Hello World en GitHub.
